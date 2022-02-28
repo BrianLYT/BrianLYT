@@ -6,12 +6,13 @@
 - 🌱 I’m currently learning Web, Node.js
 
 ## Technologies & Tools
+<p>
 <img src="./python.svg" alt="python" width="40" height="40"/>
 <img src="./javascript.svg" alt="csharp" width="40" height="40"/>  
 <img src="./nodejs.svg" alt="nodejs" width="40" height="40"/> 
 <img src="./csharp.svg" alt="csharp" width="40" height="40"/>
-<img src="./HTML5.svg" alt="HTML5" width="40" height="40"/>
-<img src="./CSS3.svg" alt="CSS3" width="40" height="40"/>
+<img src="./html5.svg" alt="HTML5" width="40" height="40"/>
+<img src="./css3.svg" alt="CSS3" width="40" height="40"/>
 <img src="./react.svg" alt="react" width="40" height="40"/> 
 <img src="./mysql.svg" alt="mysql" width="40" height="40"/> 
 <img src="./sqlserver.svg" alt="sqlserver" width="40" height="40"/> 
@@ -19,6 +20,7 @@
 <img src="./git.svg" alt="git" width="40" height="40"/> 
 <img src="./vscode.svg" alt="vscode" width="40" height="40"/> 
 <img src="./visualstudio.svg" alt="visualstudio" width="40" height="40"/>
+</p>
 
 ## GitHub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=BrianLYT&theme=radical" alt="githubStats"></p>
