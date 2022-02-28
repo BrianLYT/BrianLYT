@@ -17,7 +17,8 @@
 <img src="./mysql.svg" alt="mysql" width="40" height="40"/> 
 <img src="./sqlserver.svg" alt="sqlserver" width="40" height="40"/> 
 <img src="./mongodb.svg" alt="mongodb" width="40" height="40"/> 
-<img src="./git.svg" alt="git" width="40" height="40"/> 
+<img src="./git.svg" alt="git" width="40" height="40"/>
+<img src="./postman.svg" alt="postman" width="40" height="40"/> 
 <img src="./vscode.svg" alt="vscode" width="40" height="40"/> 
 <img src="./visualstudio.svg" alt="visualstudio" width="40" height="40"/>
 </p>
